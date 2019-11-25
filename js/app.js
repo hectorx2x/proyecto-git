@@ -69,3 +69,5 @@ console.log(tarea1);
 console.log(tarea1.mostrarInformacionTarea());
 
 // HO SHI
+
+//comentario de nuevo
